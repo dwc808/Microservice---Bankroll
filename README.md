@@ -14,7 +14,7 @@ It expects GET requests to include a 'User' parameter with the username, as foll
 
 ## Making requests and receiving responses
 
-The following are examples requests that can be made to the Bankroll API. These requets were made with the Python requests library:
+The following are examples requests that can be made to the Bankroll API. These requests were made with the Python requests library:
 
 Adding funds to a user account:
 ```
